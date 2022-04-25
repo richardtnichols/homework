@@ -1,0 +1,1 @@
+This is a repo containing my homework assignments. I've created this repo in the interest of accessing said assignments from both my Mac laptop and my Windows home desktop as I found the process of integrating iCloud with Windows to be tedious. Therefore I endeavored in the much more tedious task of getting a repo up and running. Cheers.
